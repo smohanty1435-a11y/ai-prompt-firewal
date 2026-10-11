@@ -1,0 +1,5 @@
+/* Reset default Vite center layout */
+#root {
+  min-height: 100vh;
+  width: 100%;
+}
